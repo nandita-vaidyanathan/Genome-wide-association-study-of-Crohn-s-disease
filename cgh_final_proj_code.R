@@ -1,4 +1,5 @@
 #Genome-Wide Association Study of Crohn’s Disease
+Note: Files in this repository need to be downloaded to be viewed properly. The "Invalid PDF" message is just a GitHub display limitation.
 
 library(data.table)
 
